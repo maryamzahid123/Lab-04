@@ -9,3 +9,4 @@ Subtraction
 int a-b;
 Console.WriteLine($"subtraction of two numbers");
 int a = Convert.ToInt32(Console.WriteLine());
+int b = Convert.ToInt32(Console.WriteLine());
