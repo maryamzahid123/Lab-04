@@ -4,3 +4,8 @@ int a+b;
 Console.WriteLine ($"addition of two number");
 int a = Convert.ToInt32(Console.ReadLine());
 int b = Convert.ToInt32(Console.ReadLine();
+multiplication
+int a*b;
+Console.WriteLine ($"multiplication of two number");
+int a = Convert.ToInt32(Console.ReadLine());
+int b = Convert.ToInt32(Console.ReadLine();
